@@ -1,6 +1,6 @@
 # Default Values for my Helm Chart
 
 container:
-  image: excaliburnext/test:latest
+  image: anatolii172/application1:latest
 
 replicaCount: 1
